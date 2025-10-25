@@ -5,7 +5,7 @@
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
-
+ 
 **SOFTWARE REQUIRED:**
 
 Quartus prime
